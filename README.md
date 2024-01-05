@@ -1,0 +1,1 @@
+Test mod that gives you infinite stamina. Please ignore

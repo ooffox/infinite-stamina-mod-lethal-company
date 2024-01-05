@@ -1,7 +1,7 @@
 {
-    "name": "Infinite Stamina",
+    "name": "InfiniteStamina",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/ooffox/infinite-stamina-mod-lethal-company/settings",
+    "website_url": "https://github.com/ooffox/infinite-stamina-mod-lethal-company",
     "description": "Gives you infinite stamina",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
